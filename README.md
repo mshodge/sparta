@@ -1,4 +1,4 @@
-# FaultScarpAlgorithm (FAST)
+# <b><u>S</b></u>carp <b><u>PAR</b></u>ame<b><u>T</b></u>er <b><u>A</b></u>lgorithm (SPARTA)
 
 A semi-automated algorithm to calculate fault scarp morphological parameters (height, width and slope) from two-dimensional elevation profiles extracted from a digital elevation model (DEM), and produce an along-strike profile.
 
