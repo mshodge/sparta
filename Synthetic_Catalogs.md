@@ -1,6 +1,6 @@
 # Read Me for Synthetic Catalogs
 
-16 synthetic catalogs have been uploaded here. All profiles are 400 m long. All have an randomised upper and lower slope between 0 and 5 degrees.
+16 synthetic catalogs have been uploaded to the zip file 'Synthetic_Catalogs_data.zip'. All profiles are 400 m long. All have an randomised upper and lower slope between 0 and 5 degrees.
 
 # No Noise Catalogs (NN)
 
