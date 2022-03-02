@@ -1,4 +1,5 @@
-from scripts.find_scarp import find_scarp
+import pytest
+from find_scarp import find_scarp
 from tests.utils.create_data import create_profile_for_finding_scarp
 
 
