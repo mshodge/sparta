@@ -2,6 +2,7 @@ argparse
 matplotlib
 numpy
 pandas
+pytest
 scipy
 seaborn
 statsmodels
