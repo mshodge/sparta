@@ -33,7 +33,4 @@ jobs:
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
     - name: Test with pytest
       run: |
-        cd scripts
-        chmod +x run_tests.sh
-        ./run_tests.sh
-      working-directory: tests
+        python -m pytest --import-mode=append scripts/tests/
