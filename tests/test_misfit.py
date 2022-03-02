@@ -1,4 +1,4 @@
-from utils.create_data import create_profile_for_calculating_misfit, create_manual_profile_for_calculating_misfit
+from tests.utils.create_data import create_profile_for_calculating_misfit, create_manual_profile_for_calculating_misfit
 from scripts.misfit import misfit_calculation
 
 

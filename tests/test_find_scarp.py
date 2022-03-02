@@ -1,5 +1,5 @@
 from scripts.find_scarp import find_scarp
-from utils.create_data import create_profile_for_finding_scarp
+from tests.utils.create_data import create_profile_for_finding_scarp
 
 
 def test_scarp():
