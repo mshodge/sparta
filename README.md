@@ -28,7 +28,7 @@ two-dimensional elevation profiles extracted from a digital elevation model (DEM
 1. To run:
 
     ```
-    python sparta.py <args>
+    python run_sparta.py <args>
     ```
 
     Where `<args>` are:
