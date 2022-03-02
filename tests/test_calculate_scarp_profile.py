@@ -1,5 +1,5 @@
 from scripts.calculate_scarp_profile import calculate_scarp_profile
-from tests.utils.create_data import create_profile_for_calculating_scarp_morphology
+from utils.create_data import create_profile_for_calculating_scarp_morphology
 
 
 def test_height():
