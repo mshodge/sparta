@@ -98,6 +98,6 @@ def misfit_calculation(profile, profile_manual,
     misfit_df['misfit_total'] = misfit_df['misfit_height'] + misfit_df['misfit_width'] + misfit_df['misfit_slope']
 
     if save_file:
-        save_to_csv(misfit_df, method, profile_number)
+        save_to_csv(misfit_df, method, profile.profile[0])
     return misfit_df
 
